@@ -1,0 +1,9 @@
+Makefile*
+MINFO
+
+# Build results
+bin/
+inc32/
+lib/
+out32/
+tmp32/
